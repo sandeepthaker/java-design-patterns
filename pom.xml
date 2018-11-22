@@ -11,8 +11,6 @@
     <modules>
         <module>abstract-factory-pattern</module>
         <module>factory-pattern</module>
-        <module>factory-pattern</module>
-        <module>factory-pattern</module>
     </modules>
 
 
