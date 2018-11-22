@@ -7,7 +7,7 @@ install:
 - mvn install -DskipTests=true
 
 after_success:
-- mvn clean
+- mvn sonar:sonar -Dsonar.projectKey=sandeepthaker_java-design-patterns -Dsonar.organization=sandeepthaker-github -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=dcf7a6ba80ffdb822833adc0446f82bb2b459fad
 
 # use latest java version available instead of travis default
 #addons:
