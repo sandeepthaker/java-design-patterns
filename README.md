@@ -5,8 +5,8 @@
 # Creational
 These patterns provide flexible ways of creating objects, which help to minimize dependencies between classes and maximize code reuse.
 - Singleton Pattern  
-- Factory Method
-- Abstract Factory Method
+- [Factory Method](https://github.com/sandeepthaker/java-design-patterns/tree/master/factory-pattern)
+- [Abstract Factory Method](https://github.com/sandeepthaker/java-design-patterns/tree/master/abstract-factory-pattern)
 - Builder Pattern
 - Prototye Pattern
 - 
